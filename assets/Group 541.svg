@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <filter id="ruffa-jane-reyes-dlGhQPIstkQ-unsplash" x="0" y="0" width="135" height="135" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_541" data-name="Group 541" transform="translate(1280.587 727.587) rotate(180)">
+    <g transform="matrix(-1, 0, 0, -1, 1280.59, 727.59)" filter="url(#ruffa-jane-reyes-dlGhQPIstkQ-unsplash)">
+      <rect id="ruffa-jane-reyes-dlGhQPIstkQ-unsplash-2" data-name="ruffa-jane-reyes-dlGhQPIstkQ-unsplash" width="24" height="24" rx="4" transform="translate(76.5 74.5) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="arrow_forward_ios_black_24dp" transform="translate(1224.62 656.555) rotate(90)">
+      <g id="Group_538" data-name="Group 538">
+        <path id="Path_2885" data-name="Path 2885" d="M0,0H17.065V17.065H0Z" fill="none"/>
+      </g>
+      <g id="Group_539" data-name="Group 539" transform="translate(4.43 1.422)">
+        <path id="Path_2886" data-name="Path 2886" d="M0,12.962,1.259,14.22l7.11-7.11L1.259,0,0,1.259,5.852,7.11Z" fill="#414141"/>
+      </g>
+    </g>
+  </g>
+</svg>
